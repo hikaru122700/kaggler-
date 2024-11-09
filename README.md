@@ -1,4 +1,4 @@
-# kaggler-
+# kaggler-pub-GCI-titanic
 
 # コンペ概要
 期限は11/18の午後５時まで

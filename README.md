@@ -24,7 +24,7 @@ optunaを突かttあハイパーパラメーターチューニング（max_depth
 
 ## 11/9土曜日
 
-### professional_ipynb_のコピー.ipynbについて、
+### 0.ipynbについて、
 
 運営から配布されたデータ。
 
@@ -51,3 +51,22 @@ models = ['rfc', 'svc', "xgb", "gbc"]
 LBでは0.778程度しか出ない。
 
 private_scoreでは0.85程度を記録
+
+### 2.ipynbについて
+
+前処理で各列の積についても考慮に入れてみた。
+
+importanceを取得してみると、sex * Fare の要素が非常に大きな重要度を持っていることが判明した。
+
+pycaretでtop3モデルgbc、ridge、xgboostのアンサンブルを作った。
+
+なぜか、まったくスコアが出ない。private_scoreは0.83程度。
+
+LBでは0.76程度しか出ない
+
+pycaretを使うという策は断念。
+
+
+
+
+

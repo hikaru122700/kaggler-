@@ -256,10 +256,18 @@ LBに関しては~~12日の午前3時に採点される見通し~~　0.703　無
 
 14.ipynbの継承。
 
-
-
 採点スコアは0.803
 
+Mr列を廃止してalone列を追加した。
 
+### 21.ipynbについて
 
+https://www.kaggle.com/code/cdeotte/titanic-using-name-only-0-81818
 
+上のURLのコピー、なぜかうまく動かないのでどうしたものか。
+
+### 22.ipynbについて
+
+19.ipynbの継承。https://www.kaggle.com/code/chumajin/lgbm-starter-with-optunaを参考にLGBMのモデルを追加してみた。
+
+LBスコアに関しては11/13の午後3時に採点される見通し。

@@ -266,7 +266,7 @@ https://www.kaggle.com/code/cdeotte/titanic-using-name-only-0-81818
 
 上のURLのコピー、なぜかうまく動かないのでどうしたものか。
 
-### 22.ipynbについて
+### 22.ipynbについて　あなたの正解率は0.7607655502392344です
 
 19.ipynbの継承。https://www.kaggle.com/code/chumajin/lgbm-starter-with-optunaを参考にLGBMのモデルを追加してみた。
 
